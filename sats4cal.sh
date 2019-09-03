@@ -17,7 +17,7 @@
 #Bear in mind the beams in your location this script does not do that, if in doubt check the king of sat website
 
 ## declare satellites that you want a list of channels from 
-declare -a arr=("0.8W" "1.0W" "19.2E" "28.2E" "13.0E")
+declare -a arr=("0.8W" "1.0W" "19.2E" "28.2E" "13.0E" "37.5W")
 
 for i in "${arr[@]}"
 do
